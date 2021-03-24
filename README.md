@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*My name is Githaka Mbui. I am a software engineer who is passionate about using technology to solve real world problems. I passionately love JavaScript and all things related. My development strengths include Vanilla JavaScript, NodeJS, Express, React as well as various development and data methodologies (REST, MVC, ETL, APIs). I'm currently learning android development. I am open to exploring new opportunities in the development realm.*
+*My name is Githaka Mbui. I am a software engineer who is passionate about using technology to solve real world problems. I passionately love JavaScript and all things related. My development strengths include Vanilla JavaScript, NodeJS, Express, React as well as various development and data methodologies (REST, MVC, ETL, APIs). I am open to exploring new opportunities in the development realm.*
 
 <!--
 **GithakaMbui/GithakaMbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
